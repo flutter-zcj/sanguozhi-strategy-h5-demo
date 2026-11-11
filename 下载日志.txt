@@ -1,0 +1,42 @@
+APK URL: https://downali.wandoujia.com/s1/4/1/2026101015240115_com.aligames.sgzzlb.aligames.apk?nrd=0&fname=%E4%B8%89%E5%9B%BD%E5
+  200 MB
+  400 MB
+  600 MB
+  800 MB
+  1000 MB
+  1200 MB
+  1400 MB
+  1600 MB
+  1800 MB
+  2000 MB
+  2200 MB
+  2400 MB
+  2600 MB
+  2800 MB
+  3000 MB
+  3200 MB
+  3400 MB
+  3600 MB
+APK 完成: 3938666367 bytes (3756.2 MB) 耗时 280s
+MD5: 9704909a88ababe572e3aa22eb87d721
+magic: b'PK\x03\x04'
+图片 yyb/icon: 135959 bytes
+图片 yyb/shot01: 133763 bytes
+图片 yyb/shot02: 298618 bytes
+图片 yyb/shot03: 299676 bytes
+图片 yyb/shot04: 301445 bytes
+图片 yyb/shot05: 299219 bytes
+图片 yyb/shot06: 303200 bytes
+图片 wandoujia/icon: 14026 bytes
+图片 wandoujia/shot01: 26633 bytes
+图片 wandoujia/shot02: 28449 bytes
+图片 wandoujia/shot03: 24798 bytes
+图片 wandoujia/shot04: 27965 bytes
+图片 wandoujia/shot05: 29245 bytes
+图片 pp/icon: 164858 bytes
+图片 pp/shot01: 198605 bytes
+图片 pp/shot02: 198250 bytes
+图片 pp/shot03: 196429 bytes
+图片 pp/shot04: 198816 bytes
+图片 pp/shot05: 190073 bytes
+ALL DONE

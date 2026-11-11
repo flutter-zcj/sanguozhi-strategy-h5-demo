@@ -1,0 +1,10 @@
+# 官方 APK（3.7GB）超出 GitHub 单文件与仓库体积限制，仅本地保留
+apk/
+# 逆向工具产生的空错误日志
+*.err
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+node_modules/
